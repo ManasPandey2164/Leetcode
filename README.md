@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManasPandey2164/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ManasPandey2164/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ManasPandey2164/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ManasPandey2164/Leetcode/tree/master/0682-baseball-game) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManasPandey2164/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ManasPandey2164/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
