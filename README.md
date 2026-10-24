@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManasPandey2164/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ManasPandey2164/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ManasPandey2164/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ManasPandey2164/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ManasPandey2164/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ManasPandey2164/Leetcode/tree/master/0735-asteroid-collision) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ManasPandey2164/Leetcode/tree/master/0146-lru-cache) |
+| [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ManasPandey2164/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -88,4 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ManasPandey2164/Leetcode/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
