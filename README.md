@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ManasPandey2164/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ManasPandey2164/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ManasPandey2164/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ManasPandey2164/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ManasPandey2164/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ManasPandey2164/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
