@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ManasPandey2164/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ManasPandey2164/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ManasPandey2164/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0976-largest-perimeter-triangle](https://github.com/ManasPandey2164/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ManasPandey2164/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ManasPandey2164/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ManasPandey2164/Leetcode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/ManasPandey2164/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ManasPandey2164/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/ManasPandey2164/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ManasPandey2164/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
@@ -146,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ManasPandey2164/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/ManasPandey2164/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/ManasPandey2164/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/ManasPandey2164/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/ManasPandey2164/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
