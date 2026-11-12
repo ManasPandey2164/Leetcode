@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/ManasPandey2164/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0976-largest-perimeter-triangle](https://github.com/ManasPandey2164/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ManasPandey2164/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ManasPandey2164/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ManasPandey2164/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
 |  |
