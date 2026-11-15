@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/ManasPandey2164/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0907-sum-of-subarray-minimums](https://github.com/ManasPandey2164/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0976-largest-perimeter-triangle](https://github.com/ManasPandey2164/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/ManasPandey2164/Leetcode/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ManasPandey2164/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ManasPandey2164/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ManasPandey2164/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/ManasPandey2164/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/ManasPandey2164/Leetcode/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ManasPandey2164/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManasPandey2164/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ManasPandey2164/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ManasPandey2164/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
