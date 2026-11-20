@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManasPandey2164/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ManasPandey2164/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ManasPandey2164/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0128-longest-consecutive-sequence](https://github.com/ManasPandey2164/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ManasPandey2164/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ManasPandey2164/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ManasPandey2164/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/ManasPandey2164/Leetcode/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/ManasPandey2164/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/ManasPandey2164/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ManasPandey2164/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ManasPandey2164/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
