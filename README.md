@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManasPandey2164/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/ManasPandey2164/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/ManasPandey2164/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1021-remove-outermost-parentheses](https://github.com/ManasPandey2164/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManasPandey2164/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ManasPandey2164/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManasPandey2164/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ManasPandey2164/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0821-shortest-distance-to-a-character](https://github.com/ManasPandey2164/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ManasPandey2164/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -195,4 +197,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ManasPandey2164/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManasPandey2164/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManasPandey2164/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManasPandey2164/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManasPandey2164/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
