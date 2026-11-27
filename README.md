@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ManasPandey2164/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/ManasPandey2164/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1720-decode-xored-array](https://github.com/ManasPandey2164/Leetcode/tree/master/1720-decode-xored-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ManasPandey2164/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ManasPandey2164/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ManasPandey2164/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/ManasPandey2164/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ManasPandey2164/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Quicksort
 |  |
 | ------- |
